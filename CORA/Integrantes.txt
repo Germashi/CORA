@@ -5,7 +5,12 @@ Correo:    odrugees@poligran.edu.co
 
 
 Nombres:
-Apellidos: 
+Apellidos:
+Código:
+Correo:
+
+Nombres:
+Apellidos:
 Código:
 Correo:
 
